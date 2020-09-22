@@ -27,5 +27,5 @@ $ python3 exercicio_1.py
 ```
 $ cd Parte_2
 $ gcc bme280.c exercicio_2.c -o solucao
-$ ./solucao
+$ ./solucao "/dev/i2c-1"
 ```
